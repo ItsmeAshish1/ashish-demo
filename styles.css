@@ -7,6 +7,9 @@ img{
     width: 650px;
 }
 h2{
- border: 2PX solid black firebrick;
+    
     color: RED;
+}
+.ram{
+    width: 200px;
 }
