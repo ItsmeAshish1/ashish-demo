@@ -1,4 +1,12 @@
 p{
     color: red;
-    border: 22px solid cyan;
+    
+}
+img{
+  height: 480px;
+    width: 650px;
+}
+h2{
+ border: 2PX solid black firebrick;
+    color: RED;
 }
